@@ -1,6 +1,6 @@
 # Marsel Bisengaliev
 
-<img src="assets/maurice.webp" width="250" height="500" />
+<img src="assets/maurice.webp" width="500" height="250" />
 
 <br/>
 
