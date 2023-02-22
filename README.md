@@ -9,7 +9,7 @@
 <p>Hi dear reader, my name is Marsel Bisengaliev. I am 18 years old, from Kazakhstan.</p>
 <p>I am loving programming, learning English language, drink tea, being in love and silence.</p>
 <p>My dream is to be happy, have for real the best friends, have my own home and living in a democratic country.</p>
-<img src="assets/me.jpg" width="400" height="250" />
+<img src="assets/me.jpg" width="300" height="250" />
 
 <br/>
 
