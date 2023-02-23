@@ -1,19 +1,18 @@
-# Marsel Bisengaliev
+# Marsel Bisengaliev 🤵
 
 <img src="assets/maurice.webp" width="450" height="250" />
 
 <br/>
 
-## Navigation
-<ol>
-    <li><h3><a href="#who-i-am">Who i am?</a></h3></li>
-    <li><h3><a href="#how-i-started-to-learn-programming">How I Started to Learn Programming?</a></h3></li>
-    <li><h3><a href="#skills-do-i-have">Skills do i have</a></h3></li>
-</ol>
+## Navigation 👇
+
+<h3><a href="#who-i-am">1. Who i am?</a></h3>
+<h3><a href="#how-i-started-to-learn-programming">2. How I Started to Learn Programming?</a></h3>
+<h3><a href="#skills-do-i-have">3. Skills do i have</a></h3>
 
 <br/>
 
-## Who i am?
+## Who i am? 🧛‍♀️
 
 <p>Hi dear reader, my name is Marsel Bisengaliev. I am 18 years old, from Kazakhstan.</p>
 <p>I am loving programming, learning English language, drink tea, being in love and silence.</p>
@@ -21,7 +20,7 @@
 
 <br/>
 
-## How I Started to Learn Programming?
+## How I Started to Learn Programming? 🎓
 
 <p>For first I watched videos on YouTube these videos was about HTML,CSS,Boostrap.</p>
 <p>I bought the courses in special web sites, on these videos I learned JS</p>
@@ -29,7 +28,7 @@
 
 <br/>
 
-## Skills do i have
+## Skills do i have 💼
 
 <table style="width:100%">
   <tr>
