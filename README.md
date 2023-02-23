@@ -6,9 +6,9 @@
 
 ## Navigation 👇
 
-<h3><a href="#who-i-am">1. Who i am?</a></h3>
-<h3><a href="#how-i-started-to-learn-programming">2. How I Started to Learn Programming?</a></h3>
-<h3><a href="#skills-do-i-have">3. Skills do i have</a></h3>
+<h4><a href="#who-i-am">1. Who i am?</a></h4>
+<h4><a href="#how-i-started-to-learn-programming">2. How I Started to Learn Programming?</a></h4>
+<h4><a href="#skills-do-i-have">3. Skills do i have</a></h4>
 
 <br/>
 
