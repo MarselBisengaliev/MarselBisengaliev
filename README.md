@@ -7,7 +7,7 @@
 ## Navigation 👇
 
 <h4><a href="https://github.com/MarselBisengaliev#who-i-am-%EF%B8%8F">1. Who i am?</a></h4>
-<h4><a href="MarselBisengaliev#how-i-started-to-learn-programming-">2. How I Started to Learn Programming?</a></h4>
+<h4><a href="https://github.com/MarselBisengaliev#how-i-started-to-learn-programming-">2. How I Started to Learn Programming?</a></h4>
 <h4><a href="https://github.com/MarselBisengaliev#skills-do-i-have-">3. Skills do i have</a></h4>
 <h4><a href="https://github.com/MarselBisengaliev#social-media">4. Social media</a></h4>
 
