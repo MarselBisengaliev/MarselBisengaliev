@@ -1,6 +1,15 @@
 # Marsel Bisengaliev
 
-<img src="assets/maurice.webp" width="500" height="250" />
+<img src="assets/maurice.webp" width="450" height="250" />
+
+<br/>
+
+## Navigation
+<ol>
+    <li><a href="#who-i-am">Who i am?</a></li>
+    <li><a href="#how-i-started-to-learn-programming">How I Started to Learn Programming?</a></li>
+    <li><a href="#skills-do-i-have">Skills do i have</a></li>
+</ol>
 
 <br/>
 
@@ -24,7 +33,6 @@
 
 <table style="width:100%">
   <tr>
-    <td>Name</td>
     <td>JS</td>
     <td>HTML & CSS</td>
     <td>React JS</td>
@@ -32,12 +40,11 @@
     <td>Node JS</td>
   </tr>
   <tr>
-    <td>%</td>
-    <td>80</td>
-    <td>95</td>
-    <td>60</td>
-    <td>50</td>
-    <td>55</td>
+    <td>80%</td>
+    <td>95%</td>
+    <td>60%</td>
+    <td>50%</td>
+    <td>55%</td>
   </tr>
 </table>
 
