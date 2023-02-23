@@ -6,9 +6,9 @@
 
 ## Navigation
 <ol>
-    <li><a href="#who-i-am">Who i am?</a></li>
-    <li><a href="#how-i-started-to-learn-programming">How I Started to Learn Programming?</a></li>
-    <li><a href="#skills-do-i-have">Skills do i have</a></li>
+    <li><h3><a href="#who-i-am">Who i am?</a></h3></li>
+    <li><h3><a href="#how-i-started-to-learn-programming">How I Started to Learn Programming?</a></h3></li>
+    <li><h3><a href="#skills-do-i-have">Skills do i have</a></h3></li>
 </ol>
 
 <br/>
