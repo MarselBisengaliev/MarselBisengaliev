@@ -1,9 +1,3 @@
-# Marsel Bisengaliev 🤵
-
-<img src="assets/maurice.webp" width="450" height="250" />
-
-<br/>
-
 ## Navigation 👇
 
 <h4><a href="https://github.com/MarselBisengaliev#who-i-am-%EF%B8%8F">1. Who i am?</a></h4>
